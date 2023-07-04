@@ -13,3 +13,13 @@ Ekran Görüntüleri (ScreenShot)
 projeyle ilgilenmek isteyenler mail adresimden iletişime geçebilir harunercul5@gmail.com
 Those interested in the project can contact me via my email address at harunercul5@gmail.com.
 
+
+Application Photos
+Login Page
+![image](https://github.com/Harunercul/Chat-Bot/assets/105969081/252119b7-3821-4e73-8c08-17f860ac4225)
+Start ChatBot-Amy
+![image](https://github.com/Harunercul/Chat-Bot/assets/105969081/b3629545-5a52-43e1-9475-d7aa163d058a)
+MySql-DataBase
+![image](https://github.com/Harunercul/Chat-Bot/assets/105969081/4fa2eb24-9795-46d9-a026-16898189a6e7)
+
+
