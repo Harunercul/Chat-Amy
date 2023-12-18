@@ -16,9 +16,11 @@ Those interested in the project can contact me via my email address at harunercu
 
 Application Photos
 Login Page
-![image](https://github.com/Harunercul/Chat-Bot/assets/105969081/252119b7-3821-4e73-8c08-17f860ac4225)
+![image](https://github.com/Harunercul/Chat-Bot/assets/105969081/2a84a704-9de9-44b7-9d1d-3833225918ba)
+
 Start ChatBot-Amy
-![image](https://github.com/Harunercul/Chat-Bot/assets/105969081/b3629545-5a52-43e1-9475-d7aa163d058a)
+![image](https://github.com/Harunercul/Chat-Bot/assets/105969081/6cd98577-9c37-4e2c-8dea-e9636e073f13)
+
 MySql-DataBase
 ![image](https://github.com/Harunercul/Chat-Bot/assets/105969081/4fa2eb24-9795-46d9-a026-16898189a6e7)
 
